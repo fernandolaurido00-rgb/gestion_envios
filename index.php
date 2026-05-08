@@ -9,7 +9,7 @@ $resultado = mysqli_query($conn, $sql);
 <html>
 
 <head>
-    <title>Gestión de Envíos</title>
+    <title>Gestión de Envíos local</title>
     <link rel="stylesheet" href="css/estilos.css">
 </head>
 
