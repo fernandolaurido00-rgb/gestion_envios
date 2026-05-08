@@ -1,6 +1,6 @@
 <?php
 
-$servidor = "mysql-tuusuario.alwaysdata.net";
+$servidor = "mysql-laurido.alwaysdata.net";
 $usuario = "laurido";
 $password = "antho2022";
 $basedatos = "gestion_envios_db";
