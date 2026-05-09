@@ -7,7 +7,7 @@ $direccion = $_POST['direccion'];
 $descripcion = $_POST['descripcion'];
 
 $sql = "INSERT INTO envios(destinatario, direccion, descripcion)
-VALUES('$destinatario', '$direccion', '$descripcion')";
+VALUES('$destinatario','$direccion','$descripcion')";
 
 mysqli_query($conn, $sql);
 
